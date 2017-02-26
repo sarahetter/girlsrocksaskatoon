@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="d5500dee-db7a-4448-b927-9d9c7488cf53" name="girlsrocksaskatoon.ca" url="http://ftp.girlsrocksaskatoon.ca">
+        <fileTransfer host="ftp.girlsrocksaskatoon.ca" port="22" rootFolder="/home/girlsroc/public_html" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
